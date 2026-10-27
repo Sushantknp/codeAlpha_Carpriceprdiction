@@ -52,7 +52,7 @@ pip install -r requirements.txt
 Run the Streamlit App
 From the project root directory, run:
 streamlit run app.py
-Open the local URL shown in the terminal (usually http://localhost:8501). Enter the car details and select Predict to see the estimated selling price in lakhs.
+Open the local URL shown in the terminal (usually [http://localhost:8501](http://localhost:8501/)). Enter the car details and select Predict to see the estimated selling price in lakhs.
 Run the Notebook
 To explore the analysis and training workflow:
 jupyter notebook notebooks/car_price.ipynb
